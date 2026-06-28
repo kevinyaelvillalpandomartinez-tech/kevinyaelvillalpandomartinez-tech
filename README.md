@@ -14,7 +14,7 @@ Transformo datos en información que impulsa decisiones de negocio.
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)][(AQUI_TU_LINKEDIN)](https://www.linkedin.com/in/kevin-yael-villalpando-martinez-518272405/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-yael-villalpando-martinez-518272405/)][(AQUI_TU_LINKEDIN)]
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github)](AQUI_TU_PORTAFOLIO)
 [![Email](https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail)](mailto:kevinyaelvillalpandomartinez@gmail.com)
 
