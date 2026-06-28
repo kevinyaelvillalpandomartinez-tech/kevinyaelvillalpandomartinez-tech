@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/banner.jpg" alt="Kevin Yael Villalpando | Data Analyst" width="100%">
+
+</div>
+
+<div align="center">
+
 # 👋 Hola, soy Kevin Yael Villalpando Martínez
 
 ### 📊 Junior Data Analyst | Power BI • SQL • Python
