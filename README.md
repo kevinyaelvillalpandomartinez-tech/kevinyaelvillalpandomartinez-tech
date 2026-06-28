@@ -14,9 +14,13 @@ Transformo datos en información que impulsa decisiones de negocio.
 
 ---
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)][(AQUI_TU_LINKEDIN)]
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github)](AQUI_TU_PORTAFOLIO)
-[![Email](https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail)](mailto:kevinyaelvillalpandomartinez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-yael-villalpando-martinez-518272405/)
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visitar-181717?style=for-the-badge)](https://kevinyaelvillalpandomartinez-tech.github.io/kevinvillalpando.github.io/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-kevinyaelvillalpandomartinez--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinyaelvillalpandomartinez-tech)
+
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinyaelvillalpandomartinez@gmail.com)
 
 </div>
 
