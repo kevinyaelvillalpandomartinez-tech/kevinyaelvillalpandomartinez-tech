@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Kevin Yael Villalpando | Data Analyst" width="100%">
+<img src="imagens/1777590644496.jpg" alt="Kevin Yael Villalpando | Data Analyst" width="100%">
 
 </div>
 
