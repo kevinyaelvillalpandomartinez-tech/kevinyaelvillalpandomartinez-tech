@@ -240,6 +240,8 @@ kevinyaelvillalpandomartinez@gmail.com
 www.linkedin.com/in/kevin-villalpando-dataanalyst
 
 🌐 **Portafolio**
+
+
 https://github.com/kevinyaelvillalpandomartinez-tech?tab=repositories
 
 ---
