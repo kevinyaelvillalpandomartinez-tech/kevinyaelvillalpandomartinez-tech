@@ -237,11 +237,10 @@ kevinyaelvillalpandomartinez@gmail.com
 
 💼 **LinkedIn**
 
-(Aquí tu perfil)
+www.linkedin.com/in/kevin-villalpando-dataanalyst
 
 🌐 **Portafolio**
-
-(Aquí tu GitHub Pages)
+https://github.com/kevinyaelvillalpandomartinez-tech?tab=repositories
 
 ---
 
